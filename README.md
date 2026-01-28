@@ -1,2 +1,2 @@
 # MasJan
-ajan kink website 
+ajan kink 
